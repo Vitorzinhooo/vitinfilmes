@@ -4,15 +4,16 @@ body{
     color: white;
 }
 .cabeçalho{
-    background-color: white;
-    color: black;
+   color: black;
+   background-color: white;
+    
 }
 header{
    border-top: rgb(255, 255, 255);
     border-bottom: solid 2px rgba(255, 255, 255, 0.959);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 h1{
