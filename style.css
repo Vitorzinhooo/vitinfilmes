@@ -1,3 +1,7 @@
 body{
     background: rgb(156, 192, 233);
 }
+
+img{
+    size: 60%;
+}
