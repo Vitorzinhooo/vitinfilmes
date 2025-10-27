@@ -3,8 +3,8 @@ body{
     color: white;
 }
 header{
-   border-top: black;
-    border-bottom: solid 2px rgba(0, 0, 0, 0.959);
+   border-top: rgb(255, 255, 255);
+    border-bottom: solid 2px rgba(255, 255, 255, 0.959);
     padding: 20px;
     font-size: 32px;
     color: rgb(255, 255, 255);
