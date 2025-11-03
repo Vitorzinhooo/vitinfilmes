@@ -29,3 +29,8 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
