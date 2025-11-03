@@ -37,6 +37,10 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .categoria-videos{
 display: flex;
 width: 300px;
